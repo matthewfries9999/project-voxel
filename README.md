@@ -8,7 +8,7 @@ A 2D sandbox game built in Unity inspired by games like Terraria. Project Voxel 
 
 ## 🎮 About the Game
 
-Project Voxel is a 2D sandbox experience where players explore an infinite, procedurally generated world. The game features destructible terrain, underground cave networks, and scattered ore deposits to discover. Custom pixel art, animations, and physics-based interactions bring the world to life.
+Project Voxel is a 2D sandbox experience where players explore an infinite, procedurally generated world. The game features destructible terrain, underground cave networks, and scattered ore deposits to discover. Custom pixel art and free-use texture assets bring the world to life.
 
 ---
 
@@ -18,8 +18,7 @@ Project Voxel is a 2D sandbox experience where players explore an infinite, proc
 - **Cave Systems** — Underground cave networks generated procedurally for exploration
 - **Ore Generation** — Distributed ore deposits embedded throughout the world using noise-based placement
 - **Physics Interactions** — Responsive physics systems for player and world objects
-- **Custom Pixel Art** — Original sprites, tiles, and animations created for the game
-- **Interactive UI** — In-game UI elements including inventory and world interaction systems
+- **Custom & Free-Use Art** — Combination of original pixel art and free-use texture assets
 
 ---
 
@@ -27,7 +26,7 @@ Project Voxel is a 2D sandbox experience where players explore an infinite, proc
 
 - **Engine:** Unity
 - **Language:** C#
-- **Art:** Custom pixel art & animations
+- **Art:** Original pixel art & free-use texture assets
 - **Version Control:** Git
 
 ---
